@@ -11,7 +11,6 @@ import java.util.Random;
 /**
  * Created by chenxz on 2018/4/6.
  */
-
 public class FallObject {
 
     private int initX;

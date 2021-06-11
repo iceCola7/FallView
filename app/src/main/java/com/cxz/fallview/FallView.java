@@ -2,7 +2,7 @@ package com.cxz.fallview;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewTreeObserver;
@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * Created by chenxz on 2018/4/6.
  */
-
 public class FallView extends View {
 
     private Context mContext;
